@@ -11,6 +11,9 @@ namespace ConsoleApp53
         static void Main(string[] args)
         {
             int i = 0;
+            Point p=new Point();
+            p.X = 5;
+            p.X = 44;
         }
     }
 }
